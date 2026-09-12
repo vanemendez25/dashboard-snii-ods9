@@ -53,8 +53,8 @@ A través del procesamiento y análisis visual de los datos, identificamos patro
 El proceso detallado de limpieza y preparación de datos utilizando OpenRefine, así como el análisis estadístico completo, se encuentran documentados en nuestro reporte técnico oficial.
 
 <div align="center">
-  <a href="https://github.com/user-attachments/files/32064546/PF_EQ3.1.pdf">
-    <img src="https://img.shields.io/badge/📄_Descargar_Investigación_Completa-PDF-red?style=for-the-badge" alt="Descargar PDF" />
+  <a href="AQUÍ_PEGA_EL_ENLACE_QUE_COPIASTE">
+    <img src="https://img.shields.io/badge/📄_Ver_Investigación_Completa-PDF-red?style=for-the-badge" alt="Ver PDF" />
   </a>
 </div>
 
